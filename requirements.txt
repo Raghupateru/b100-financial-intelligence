@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
 sqlalchemy
 psycopg2-binary
 openpyxl
-jupyter
 matplotlib
 seaborn
