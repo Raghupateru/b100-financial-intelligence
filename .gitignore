@@ -9,5 +9,4 @@ data/raw/
 *.xlsx
 *.xls
 
-*.pbix
 *.tmp
